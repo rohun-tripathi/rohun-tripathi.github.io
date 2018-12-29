@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine-learning on Rohun Tripathi</title>
+    <link>https://rohun-tripathi.github.io/tags/machine-learning/</link>
+    <description>Recent content in machine-learning on Rohun Tripathi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Jul 2018 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://rohun-tripathi.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enterprise Scale Privacy Aware Occupancy Sensing</title>
+      <link>https://rohun-tripathi.github.io/publication_chi/occupancy-sensing/</link>
+      <pubDate>Mon, 02 Jul 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://rohun-tripathi.github.io/publication_chi/occupancy-sensing/</guid>
+      <description>Abstract. Location based services inside smart buildings are dependent on scalable localization methods. However, for enterprises, privacy of individual employees is a major concern. In this paper, we present a privacy aware occupancy sensing mechanism for large scale enterprises with multiple floors in multiple buildings of multiple cities. This is achieved through Wi-Fi fingerprint based localization methods implemented on edge devices. We present some preliminary results on occupancy sensing from our pilot study inside the office spaces of IBM India.</description>
+    </item>
+    
+    <item>
+      <title>clear.ai</title>
+      <link>https://rohun-tripathi.github.io/project/clear-ai/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://rohun-tripathi.github.io/project/clear-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Programming by Demonstration and Dynamical Systems for Robot Learning</title>
+      <link>https://rohun-tripathi.github.io/publication_robotics/lfd/</link>
+      <pubDate>Mon, 16 Jun 2014 00:00:00 +0530</pubDate>
+      
+      <guid>https://rohun-tripathi.github.io/publication_robotics/lfd/</guid>
+      <description>Abstract. This work presents the methodology used for implementing programming by demonstration methods on a Universal Robot UR10. We used non-linear time-invariant Dynamical Systems that can imitate unconventional forms of motion. Gaussian Mixture Models were used to model input data and parameters of DS were optimized based on MSE and Log-likelihood cost functions. We incorporated a Kinect to detect users and ensure safety. Our system learns any non-circular path within three manual demonstrations and was spatially asymptotically stable.</description>
+    </item>
+    
+  </channel>
+</rss>

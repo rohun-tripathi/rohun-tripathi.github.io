@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>applied-math on Rohun Tripathi</title>
+    <link>https://rohun-tripathi.github.io/tags/applied-math/</link>
+    <description>Recent content in applied-math on Rohun Tripathi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Jul 2016 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://rohun-tripathi.github.io/tags/applied-math/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Path Planning in Ellipsoidal Configuration Space using Silhouette method</title>
+      <link>https://rohun-tripathi.github.io/publication_robotics/silhouette/</link>
+      <pubDate>Sat, 02 Jul 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://rohun-tripathi.github.io/publication_robotics/silhouette/</guid>
+      <description>Abstract. This work presents the methodology used for implementing Silhouette method for Robot motion planning in Configuration spaces in arbitrary dimensions. A collection of ellipsoids are used to design and implement this Configuration Space of the robot. The path is then designed based on the Silhouette method as described by Canny [2], which creates semi-free paths in the configuration space and is complete. Djikstra’s algorithm is used to connect the paths obtained.</description>
+    </item>
+    
+    <item>
+      <title>Using Programming by Demonstration and Dynamical Systems for Robot Learning</title>
+      <link>https://rohun-tripathi.github.io/publication_robotics/lfd/</link>
+      <pubDate>Mon, 16 Jun 2014 00:00:00 +0530</pubDate>
+      
+      <guid>https://rohun-tripathi.github.io/publication_robotics/lfd/</guid>
+      <description>Abstract. This work presents the methodology used for implementing programming by demonstration methods on a Universal Robot UR10. We used non-linear time-invariant Dynamical Systems that can imitate unconventional forms of motion. Gaussian Mixture Models were used to model input data and parameters of DS were optimized based on MSE and Log-likelihood cost functions. We incorporated a Kinect to detect users and ensure safety. Our system learns any non-circular path within three manual demonstrations and was spatially asymptotically stable.</description>
+    </item>
+    
+  </channel>
+</rss>

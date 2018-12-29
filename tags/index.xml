@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Rohun Tripathi</title>
+    <link>https://rohun-tripathi.github.io/tags/</link>
+    <description>Recent content in Tags on Rohun Tripathi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://rohun-tripathi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Academic</title>
+      <link>https://rohun-tripathi.github.io/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://rohun-tripathi.github.io/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>applied-math</title>
+      <link>https://rohun-tripathi.github.io/tags/applied-math/</link>
+      <pubDate>Sat, 02 Jul 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://rohun-tripathi.github.io/tags/applied-math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>audio CAPTCHA</title>
+      <link>https://rohun-tripathi.github.io/tags/audio-captcha/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://rohun-tripathi.github.io/tags/audio-captcha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer-vision</title>
+      <link>https://rohun-tripathi.github.io/tags/computer-vision/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://rohun-tripathi.github.io/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-learning</title>
+      <link>https://rohun-tripathi.github.io/tags/deep-learning/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://rohun-tripathi.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>edge-devices</title>
+      <link>https://rohun-tripathi.github.io/tags/edge-devices/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://rohun-tripathi.github.io/tags/edge-devices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
+      <link>https://rohun-tripathi.github.io/tags/machine-learning/</link>
+      <pubDate>Mon, 02 Jul 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://rohun-tripathi.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>robotics</title>
+      <link>https://rohun-tripathi.github.io/tags/robotics/</link>
+      <pubDate>Sat, 02 Jul 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://rohun-tripathi.github.io/tags/robotics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
