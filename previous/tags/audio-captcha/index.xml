@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>audio CAPTCHA on Rohun Tripathi</title>
+    <link>https://rohun-tripathi.github.io/tags/audio-captcha/</link>
+    <description>Recent content in audio CAPTCHA on Rohun Tripathi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Nov 2018 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="https://rohun-tripathi.github.io/tags/audio-captcha/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automatic Generation of Usable and Secure Audio reCAPTCHA</title>
+      <link>https://rohun-tripathi.github.io/publication_chi/captcha/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://rohun-tripathi.github.io/publication_chi/captcha/</guid>
+      <description>Coming soon. Work under review.</description>
+    </item>
+    
+  </channel>
+</rss>
