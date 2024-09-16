@@ -29,7 +29,7 @@ featured: false
 
 links:
 - name: ''
-url_pdf: 'https://rohun-tripathi.github.io/files/Single_View_Height_Technical_Report.pdf'
+url_pdf: uploads/Single_View_Height_Technical_Report.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

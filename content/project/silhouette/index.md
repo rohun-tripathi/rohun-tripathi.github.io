@@ -32,7 +32,7 @@ featured: false
 
 links:
 - name: ''
-url_pdf: 'https://rohun-tripathi.github.io/files/paperSilhouette.pdf'
+url_pdf: uploads/paperSilhouette.pdf
 url_code: 'https://github.com/rohun-tripathi/Robot-Motion-Planning-Silhouette'
 url_dataset: ''
 url_poster: ''

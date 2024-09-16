@@ -34,7 +34,7 @@ featured: false
 
 links:
 - name: ''
-url_pdf: 'https://rohun-tripathi.github.io/files/paperLfD.pdf'
+url_pdf: uploads/paperLfD.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
