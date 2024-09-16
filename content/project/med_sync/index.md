@@ -30,12 +30,12 @@ featured: false
 
 links:
 - name: ''
-url_pdf: 'https://rohun-tripathi.github.io/files/medsync_doctor_handwriting.pdf'
+url_pdf: uploads//medsync_doctor_handwriting.pdf
 url_code: 'https://github.com/rohun-tripathi/Handwriting_recognition'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://rohun-tripathi.github.io/files/medsync_doctor_handwriting.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 

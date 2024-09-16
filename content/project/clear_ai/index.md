@@ -30,12 +30,12 @@ featured: false
 
 links:
 - name: ''
-url_pdf: 'https://rohun-tripathi.github.io/files/clear.ai-sprint3.pdf'
+url_pdf: uploads//clear.ai-sprint3.pdf
 url_code: 'https://github.com/rohun-tripathi/clear.ai'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://rohun-tripathi.github.io/files/clear.ai-sprint3.pdf'
+url_slides: ''
 url_source: ''
 url_video: 'https://www.youtube.com/watch?v=CX7ar9trSy0'
 
