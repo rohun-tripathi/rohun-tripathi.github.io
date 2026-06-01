@@ -16,7 +16,7 @@ date: '2023-06-04T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-06-04T00:00:00Z'
+publishDate: ''
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,8 +24,8 @@ publishDate: '2023-06-04T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In IEEE International Conference on Acoustics, Speech and Signal Processing 
-publication_short: In ICASSP
+publication: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023
+publication_short: ICASSP 2023
 
 abstract: Lack of audio-video synchronization is a common problem during television broadcasts and video conferencing, leading to an unsatisfactory viewing experience. A widely accepted paradigm is to create an error detection mechanism that identifies the cases when audio is leading or lagging. We propose ModEFormer, which independently extracts audio and video embeddings using modality-specific transformers. Different from the other transformer-based approaches, ModEFormer preserves the modality of the input streams which allows us to use a larger batch size with more negative audio samples for contrastive learning. Further, we propose a tradeoff between the number of negative samples and number of unique samples in a batch to significantly exceed the performance of previous methods. Experimental results show that ModEFormer achieves state-of-the-art performance, 94.5% for LRS2 and 90.9% for LRS3. Finally, we demonstrate how ModEFormer can be used for offset detection for test clips.
 

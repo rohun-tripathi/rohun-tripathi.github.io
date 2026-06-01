@@ -20,7 +20,8 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Engineer
+role: Sr. Research Engineer
+lastmod: 2026-05-31
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -37,25 +38,27 @@ profiles:
     url: https://github.com/rohun-tripathi
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?&user=ebcMUqMAAAAJ
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/rohun-tripathi
 
 
-interests:
-  - Computer Vision
-  - Language Models
-  - Food Tech
+#interests:
+#  - Computer Vision
+#  - Language Models
+#  - Food Tech
 
-education:
-  - area: MEng Computer Science
-    institution: Cornell Tech, Cornell University
-    date_start: 2017-07-01
-    date_end: 2018-05-31
-    summary: |
-      GPA: 4.04/4.0
-  - area: BTech in Computer Science
-    institution: Indian Institute of Technology, Kanpur
-    date_start: 2011-07-01
-    date_end: 2015-05-31
-    summary: |
+#education:
+#  - area: MEng Computer Science
+#    institution: Cornell Tech, Cornell University
+#    date_start: 2017-07-01
+#    date_end: 2018-05-31
+#    summary: |
+#      GPA: 4.04/4.0
+#  - area: BTech in Computer Science
+#    institution: Indian Institute of Technology, Kanpur
+#    date_start: 2011-07-01
+#    date_end: 2015-05-31
+#    summary: |
 
 work:
   - position: Director of Cloud Infrastructure
@@ -157,8 +160,18 @@ awards:
 
 ## About Me
 
-I research topics in computer vision. My current focus is on developing Multimodal LLMs with novel capabilities at Ai2. My other research interests are in video generation, scene understanding, 3D vision and Indic Language models. 
+[//]: # (I research topics in computer vision. My current focus is on developing Multimodal LLMs with novel capabilities at Ai2. My other research interests are in video generation, scene understanding, 3D vision and Indic Language models. )
 
-I received my Master’s in CS from Cornell Tech in June 2018 and my Bachelor’s in CS from the Indian Institute of Technology, Kanpur in June 2015. Previously, I worked at Amazon across Audio based Talking Face generation, text based Image and Video generation, action recognition and object recognition. I worked at IBM research in indoor localisation and audio captcha generation.
+[//]: # ()
+[//]: # (I received my Master’s in CS from Cornell Tech in June 2018 and my Bachelor’s in CS from the Indian Institute of Technology, Kanpur in June 2015. Previously, I worked at Amazon across Audio based Talking Face generation, text based Image and Video generation, action recognition and object recognition. I worked at IBM research in indoor localisation and audio captcha generation.)
 
-Feel free to reach out, I am always interested in possible research collaborations and am happy to guide self-motivated researchers on a project.
+[//]: # ()
+[//]: # (Feel free to reach out, I am always interested in possible research collaborations and am happy to guide self-motivated researchers on a project.)
+
+I build and lead multimodal AI systems.
+
+At Ai2, I develop foundation models for vision, robotics, and multimodal reasoning, with a focus on large-scale modeling, training and data curation. Previously, at Amazon Research, I led projects spanning image and video generation, video understanding, and visual perception, taking models from research to production.
+
+I hold a Master's in Computer Science from Cornell Tech and a B.Tech. in Computer Science from IIT Kanpur.
+
+My interests include multimodal foundation models, robotics, generative AI, and scalable learning systems. I enjoy mentoring researchers and engineers and collaborating on ambitious AI projects.

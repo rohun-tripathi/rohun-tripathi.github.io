@@ -27,8 +27,8 @@ publishDate: '2018-07-16T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In ICML 2018 Workshop
-publication_short: In ICML-W
+publication: ICML 2018 Workshop
+publication_short: ICML Workshop 2018
 
 abstract: Semantic segmentation is a challenging vision problem that usually necessitates the collection of large amounts of finely annotated data, which is often quite expensive to obtain. Coarsely annotated data provides an interesting alternative as it is usually substantially more cheap. In this work, we present a method to leverage coarsely annotated data along with fine supervision to produce better segmentation results than would be obtained when training using only the fine data. We validate our approach by simulating a scarce data setting with less than 200 low resolution images from the Cityscapes dataset and show that our method substantially outperforms solely training on the fine annotation data by an average of 15.52% mIoU and outperforms the coarse mask by an average of 5.28% mIoU.
 

@@ -2,6 +2,8 @@
 title: 'Single-View Height Map Prediction for Satellite Imagery'
 
 authors:
+- Rohun Tripathi
+- Noah Snavely
 
 
 date: '2018-07-01T00:00:00Z'
@@ -24,6 +26,7 @@ abstract: We explore the problem of predicting height maps for man- made and nat
 summary: 
 
 tags:
+  - remote sensing
 
 featured: false
 

@@ -27,8 +27,8 @@ publishDate: '2018-07-02T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In IEEE International Conference on Edge Computing
-publication_short: In EDGE
+publication: IEEE International Conference on Edge Computing (EDGE), 2018
+publication_short: IEEE EDGE 2018
 
 abstract: Location based services inside smart buildings are dependent on scalable localization methods. However, for enterprises, privacy of individual employees is a major concern. In this paper, we present a privacy aware occupancy sensing mechanism for large scale enterprises with multiple floors in multiple buildings of multiple cities. This is achieved through Wi-Fi fingerprint based localization methods implemented on edge devices. We present some preliminary results on occupancy sensing from our pilot study inside the office spaces of IBM India.
 

@@ -25,6 +25,7 @@ abstract: We developed an end-to-end doctor handwriting recognition and indexing
 summary: 
 
 tags:
+  AI for Good
 
 featured: false
 

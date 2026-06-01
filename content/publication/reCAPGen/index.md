@@ -25,8 +25,8 @@ publishDate: '2019-10-24T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In International ACM SIGACCESS Conference on Computers and Accessibility
-publication_short: In ASSETS
+publication: International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS), 2019
+publication_short: ACM ASSETS 2019
 
 abstract: CAPTCHAs are challenge-response tests to differentiate humans from automated agents, with tasks that are easy for humans but difficult for computers. The most common CAPTCHAs require humans to decipher characters from an image and are unsuitable for visually impaired people. As an alternative, audio CAPTCHA was proposed, which require deciphering spoken digits/letters. However, current audio CAPTCHAs suffer from low usability and are insecure against Automatic Speech Recognition (ASR) attacks. In this work, we propose reCAPGen, a system that uses ASR for generating secure CAPTCHAs. We evaluated four audio CAPTCHA schemes with 60 sighted and 19 visually impaired participants. We found that our proposed Last Two Words scheme was the most usable with success rate of >78.2% and low response time of <14.5s. Furthermore, solving our audio CAPTCHAs can transcribe unknown words with >82% accuracy.
 

@@ -1,7 +1,8 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2026-05-31
+lastmod: 2026-05-31
 type: landing
 
 design:
@@ -58,6 +59,7 @@ sections:
     content:
       title: Publications
       text: ""
+      count: 20
       filters:
         folders:
           - publication

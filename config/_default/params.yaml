@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Rohun Tripathi. Last updated on May 31, 2026.'
     license:
       enable: true
       allow_derivatives: false
