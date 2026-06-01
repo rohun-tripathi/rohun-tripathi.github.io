@@ -168,10 +168,10 @@ awards:
 [//]: # ()
 [//]: # (Feel free to reach out, I am always interested in possible research collaborations and am happy to guide self-motivated researchers on a project.)
 
-I build and lead multimodal AI systems.
+I build multimodal AI systems, leading the model development.
 
-At Ai2, I develop foundation models for vision, robotics, and multimodal reasoning, with a focus on large-scale modeling, training and data curation. Previously, at Amazon Research, I led projects spanning image and video generation, video understanding, and visual perception, taking models from research to production.
+At Ai2, I develop foundation models for vision, robotics, and multimodal reasoning, with a focus on large-scale modeling, training and data curation - [Molmo](/publication/molmo/), [Molmo2](/publication/molmo2/) and [MolmoBot](/publication/molmobot/). Previously, at Amazon Research, I led projects spanning image and video generation, video understanding, and visual perception, taking models from research to production.
 
 I hold a Master's in Computer Science from Cornell Tech and a B.Tech. in Computer Science from IIT Kanpur.
 
-My interests include multimodal foundation models, robotics, generative AI, and scalable learning systems. I enjoy mentoring researchers and engineers and collaborating on ambitious AI projects.
+I enjoy mentoring researchers and engineers and collaborating on ambitious AI projects. Additionally, I am passionate about exploring the intersection of AI and plant based food.
