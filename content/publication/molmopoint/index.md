@@ -18,11 +18,11 @@ authors:
 # Author notes (optional)
 author_notes:
 
-date: '2026-06-05T00:00:00Z'
+date: '2026-06-04T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2026-03-30T00:00:00Z'
+publishDate: '2026-03-15T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

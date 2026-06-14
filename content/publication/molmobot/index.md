@@ -33,11 +33,11 @@ authors:
 # Author notes (optional)
 author_notes:
 
-date: '2026-06-04T00:00:00Z'
+date: '2026-06-05T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2026-03-15T00:00:00Z'
+publishDate: '2026-03-30T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -46,7 +46,7 @@ publication_types: ['article']
 
 # Publication name and optional abbreviated publication name.
 publication: ICRA 2026 SDRL Workshop
-publication_short: ICRA 2026 SDRL Workshop
+publication_short: ICRA 2026 SDRL Workshop (Best Paper Award)
 
 abstract: Procedural environment generation and large-scale simulation have shown promise in training robust robotic policies. However, zero-shot transfer of these policies to diverse real-world tasks remains a challenge. We introduce MolmoB0T, a suite of general-purpose manipulation policies trained on a massive dataset of 2.5 million expert trajectories in simulation. We leverage a diverse set of over 10,000 articulated objects and 500 procedurally generated environments to ensure broad coverage of manipulation tasks. We train three policy classes - MolmoBot, a Molmo2-based multi-frame vision-language model with a flow-matching action head; MolmoBot-Pi0, which replicates the pi_0 architecture to enable direct comparison; and MolmoBot-SPOC, a lightweight policy suitable for edge deployment and amenable to RL fine-tuning. We evaluate on two robotic platforms - the Franka FR3 for tabletop manipulation tasks and the Rainbow Robotics RB-Y1 mobile manipulator for door opening, drawer manipulation, cabinet interaction, and mobile pick-and-place. Without any real-world fine-tuning, our policies achieve zero-shot transfer to unseen objects and environments. On tabletop pick-and-place, MolmoBot achieves a success rate of 79.2% in real-world evaluations across 4 settings, outperforming pi_0.5 at 39.2%. Our results demonstrate that procedural environment generation combined with diverse articulated assets can produce robust manipulation policies that generalize broadly to the real world.
 

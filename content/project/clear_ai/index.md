@@ -25,7 +25,7 @@ abstract: We used computer vision to complement the remaining vision of people w
 summary: 
 
 tags:
-- AI for Good
+- AI for Healthcare
 
 featured: false
 
