@@ -30,8 +30,8 @@ publishDate: '2026-03-15T00:00:00Z'
 publication_types: ['article']
 
 # Publication name and optional abbreviated publication name.
-publication: Arxiv 2026
-publication_short: Arxiv 2026
+publication: ECCV 2026
+publication_short: ECCV 2026
 
 abstract: Grounding has become a fundamental capability of vision-language models (VLMs). Most existing VLMs point by generating coordinates as part of their text output, which requires learning a complicated coordinate system and results in a high token count. Instead, we propose a more intuitive approach using grounding tokens that directly select visual tokens from the input video or image. MolmoPoint scores coarse-grained image patches using the LLM's hidden states, then scores fine-grained subpatches from the highest scoring patch using ViT image features, and then selects a point within the highest scoring subpatch. We show that this approach is more efficient and leads to better performance on diverse pointing, counting, and tracking benchmarks across single image, multi-image, and video tasks.
 

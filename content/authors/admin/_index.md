@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Sr. Research Engineer
+role: Research Scientist
 lastmod: 2026-05-31
 
 # Organizations/Affiliations to display in Biography blox
@@ -168,9 +168,9 @@ awards:
 [//]: # ()
 [//]: # (Feel free to reach out, I am always interested in possible research collaborations and am happy to guide self-motivated researchers on a project.)
 
-I build multimodal AI systems, leading the model development.
+I am a Research Scientist at Ai2, building multimodal AI systems, leading the model development.
 
-At Ai2, I develop foundation models for vision, robotics, and multimodal reasoning, with a focus on large-scale modeling, training and data curation - [Molmo](/publication/molmo/), [Molmo2](/publication/molmo2/) and [MolmoBot](/publication/molmobot/). Previously, at Amazon Research, I led projects spanning image and video generation, video understanding, and visual perception, taking models from research to production.
+I develop foundation models for vision, robotics, and multimodal reasoning, with a focus on large-scale modeling, training and data curation - [Molmo](/publication/molmo/), [Molmo2](/publication/molmo2/) and [MolmoBot](/publication/molmobot/). Previously, at Amazon Research, I led projects spanning image and video generation, video understanding, and visual perception, taking models from research to production.
 
 I hold a Master's in Computer Science from Cornell Tech and a B.Tech. in Computer Science from IIT Kanpur.
 
